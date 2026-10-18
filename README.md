@@ -2,11 +2,10 @@
 
 # Hi, I'm yanggguang
 
-**PhD Student · Personal Bioinformatics Projects**
 
 基因组组装 · 泛基因组 · 基因家族分析
 
-[我的项目](#我个人开发的项目) · [Docker 镜像与联系](#docker-镜像与联系)
+[我的项目] · [Docker 镜像与联系](#docker-镜像与联系)
 
 
 **本主页展示的 genomeT2T、pangene 和 pangenefamily，由我个人开发与维护。** 我希望把实际研究中使用的分析脚本，整理成更易配置、复用和追踪结果的工具，让使用者能够看清每一步的输入、参数与输出。
