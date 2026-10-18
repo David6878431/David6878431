@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm David6878431
-
-### 在读博士 · 生信工具个人开发者
+# Hi, I'm yanggguang
 
 **PhD Student · Personal Bioinformatics Projects**
 
